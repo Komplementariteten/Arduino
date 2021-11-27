@@ -17,14 +17,11 @@ void loop() {
   if (randNumber > 128) {
     printSerial = false;
     digitalWrite(LED_BUILTIN, HIGH);
-    delay(100);                    
     digitalWrite(LED_BUILTIN, LOW);
-    delay(500);
   } else if(!printSerial) {
     printSerial = true;
   }
   if(Serial && printSerial) {
     Serial.print(randNumber, HEX);
   }
-  delay(10);
 }

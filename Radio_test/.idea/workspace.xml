@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0f75223-8a34-4c2e-afbe-46fe57ba7c3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Radio_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake/ArduinoToolchain.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake/Platform/Arduino.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/RCSwitch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/RCSwitch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Serial/sketch_may18a/sketch_may18a.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../Serial/sketch_may18a/sketch_may18a.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/Adafruit_GFX.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/Adafruit_GFX.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/Adafruit_GFX.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/Adafruit_GFX.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/fontconvert/fontconvert.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/fontconvert/fontconvert.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/gfxfont.h" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/gfxfont.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/glcdfont.c" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/glcdfont.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/library.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries/Adafruit_GFX_Library/library.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Radio_test.ino">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="37" selection-start-line="7" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/RCSwitch.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1465">
+              <caret line="191" column="6" selection-start-line="191" selection-start-column="6" selection-end-line="191" selection-end-column="6" />
+              <folding>
+                <element signature="e#1526#1546#0" expanded="true" />
+                <element signature="e#1619#1639#0" expanded="true" />
+                <element signature="e#1675#1826#0" expanded="true" />
+                <element signature="e#1848#1872#0" expanded="true" />
+                <element signature="e#2104#2136#0" expanded="true" />
+                <element signature="e#3106#3439#0" expanded="true" />
+                <element signature="e#3662#3701#0" expanded="true" />
+                <element signature="e#5856#5986#0" expanded="true" />
+                <element signature="e#6117#6538#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/RCSwitch.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-53">
+              <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+              <folding>
+                <element signature="e#1554#1759#0" expanded="true" />
+                <element signature="e#1807#1943#0" expanded="true" />
+                <element signature="e#2756#2799#0" expanded="true" />
+                <element signature="e#3506#4135#0" expanded="true" />
+                <element signature="e#4306#4401#0" expanded="true" />
+                <element signature="e#4827#4863#0" expanded="true" />
+                <element signature="e#5521#5615#0" expanded="true" />
+                <element signature="e#16546#16728#0" expanded="true" />
+                <element signature="e#17219#17363#0" expanded="true" />
+                <element signature="e#17911#22826#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RCSwitch.h" />
+        <option value="$PROJECT_DIR$/RCSwitch.cpp" />
+        <option value="$PROJECT_DIR$/Radio_test.ino" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="Umlxkwzg" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="53" />
+    <option name="width" value="1680" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0f75223-8a34-4c2e-afbe-46fe57ba7c3c" name="Default Changelist" comment="" />
+      <created>1563903132485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563903132485</updated>
+      <workItem from="1563903135198" duration="4844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4844000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1356" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Serial Monitor" weight="0.32953367" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.33965245" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="CMake" visible="true" weight="0.24367088" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32938388" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43316063" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936858" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Cargo" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/ArduinoToolchain.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485" />
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/hooks.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/RCSwitch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1465">
+          <caret line="191" column="6" selection-start-line="191" selection-start-column="6" selection-end-line="191" selection-end-column="6" />
+          <folding>
+            <element signature="e#1526#1546#0" expanded="true" />
+            <element signature="e#1619#1639#0" expanded="true" />
+            <element signature="e#1675#1826#0" expanded="true" />
+            <element signature="e#1848#1872#0" expanded="true" />
+            <element signature="e#2104#2136#0" expanded="true" />
+            <element signature="e#3106#3439#0" expanded="true" />
+            <element signature="e#3662#3701#0" expanded="true" />
+            <element signature="e#5856#5986#0" expanded="true" />
+            <element signature="e#6117#6538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLibary.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/RCSwitch.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+          <folding>
+            <element signature="e#1554#1759#0" expanded="true" />
+            <element signature="e#1807#1943#0" expanded="true" />
+            <element signature="e#2756#2799#0" expanded="true" />
+            <element signature="e#3506#4135#0" expanded="true" />
+            <element signature="e#4306#4401#0" expanded="true" />
+            <element signature="e#4827#4863#0" expanded="true" />
+            <element signature="e#5521#5615#0" expanded="true" />
+            <element signature="e#16546#16728#0" expanded="true" />
+            <element signature="e#17219#17363#0" expanded="true" />
+            <element signature="e#17911#22826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Radio_test.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="37" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+/usr/local/Cellar/cmake/3.14.5/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/local/Cellar/make/4.2.1_1/bin/gmake -DCMAKE_C_COMPILER=/usr/local/Cellar/llvm/8.0.0_1/bin/clang-cl -DCMAKE_CXX_COMPILER=/usr/local/Cellar/llvm/8.0.0_1/bin/clang++ -G "CodeBlocks - Unix Makefiles" /Users/me/Documents/Workspace/GitHub/Arduino/Radio_test
+CMake Warning (dev) at CMakeLists.txt:8 (add_library):
+  Policy CMP0037 is not set: Target names should not be reserved and should
+  match a validity pattern.  Run "cmake --help-policy CMP0037" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  The target name "./lib/RCSwitch.cpp" is reserved or not valid for certain
+  CMake features, such as generator expressions, and may result in undefined
+  behavior.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Generating Radio_test
+CMake Error at cmake/Platform/Arduino.cmake:1829 (message):
+  Sketch does not exist:
+  /Users/me/Documents/Workspace/GitHub/Arduino/Radio_test/Radio_test
+Call Stack (most recent call first):
+  cmake/Platform/Arduino.cmake:489 (setup_arduino_sketch)
+  CMakeLists.txt:18 (generate_arduino_firmware)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/me/Documents/Workspace/GitHub/Arduino/Radio_test/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+You have changed variables that require your cache to be deleted.
+Configure will be re-run and you may have to reset some variables.
+The following variables have changed:
+CMAKE_C_COMPILER= /usr/local/Cellar/llvm/8.0.0_1/bin/clang-cl
+CMAKE_CXX_COMPILER= /usr/local/Cellar/llvm/8.0.0_1/bin/clang++
+
+CMake Error: Cannot determine link language for target "./lib/RCSwitch.cpp".
+CMake Error: CMake can not determine linker language for target: ./lib/RCSwitch.cpp
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_MAKE_PROGRAM
+-- Generating done
+-- Build files have been written to: /Users/me/Documents/Workspace/GitHub/Arduino/Radio_test/cmake-build-debug
